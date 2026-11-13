@@ -1,4 +1,4 @@
-![Veritect](assets/veritect-lockup.svg)
+![Veritect](assets/veritect-lockup.png)
 
 # Veritect for Claude
 
